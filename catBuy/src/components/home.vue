@@ -40,6 +40,7 @@
   }
   .bg-purple-dark {
     background: #99a9bf;
+    
   }
   .bg-purple {
     background: #d3dce6;
